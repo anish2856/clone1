@@ -1,0 +1,46 @@
+/* Basic styling, you can customize this further */
+body {
+    font-family: Arial, sans-serif;
+    background-image:"redfort.jpg";
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #0ef62d;
+    color: #0f0ce2;
+    padding: 1rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 1rem;
+}
+
+section {
+    margin: 2rem;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image:"redfort.jpg";
+    background-size: cover;
+}
+    
+
+
+.destination {
+    margin: 1rem;
+}
+
+footer {
+    background-color: #af1111;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
